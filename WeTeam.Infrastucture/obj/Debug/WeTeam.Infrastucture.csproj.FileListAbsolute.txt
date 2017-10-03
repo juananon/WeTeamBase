@@ -1,0 +1,15 @@
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\WeTeam.Infrastucture.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\WeTeam.Infrastucture.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\FcmSharp.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\Firebase-Cloud-Messaging-Net.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\obj\Debug\WeTeam.Infrastucture.csprojResolveAssemblyReference.cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\obj\Debug\WeTeam.Infrastucture.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\obj\Debug\WeTeam.Infrastucture.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\WeTeam.Infrastucture.dll.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\Hangfire.Core.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\Owin.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\Hangfire.Core.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\es\Hangfire.Core.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Infrastucture\bin\Debug\zh\Hangfire.Core.resources.dll

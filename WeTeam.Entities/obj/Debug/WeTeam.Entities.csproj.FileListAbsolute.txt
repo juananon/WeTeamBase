@@ -1,0 +1,20 @@
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Entities\bin\Debug\WeTeam.Entities.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Entities\bin\Debug\WeTeam.Entities.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Entities\obj\Debug\WeTeam.Entities.csprojResolveAssemblyReference.cache
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Entities\obj\Debug\WeTeam.Entities.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Entities\obj\Debug\WeTeam.Entities.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\WeTeam.Entities.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\WeTeam.Entities.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\obj\Debug\WeTeam.Entities.csprojResolveAssemblyReference.cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\obj\Debug\WeTeam.Entities.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\obj\Debug\WeTeam.Entities.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\WeTeam.Infrastucture.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\WeTeam.Infrastucture.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\WeTeam.Entities.dll.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\Hangfire.Core.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\Owin.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\Hangfire.Core.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\es\Hangfire.Core.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Entities\bin\Debug\zh\Hangfire.Core.resources.dll

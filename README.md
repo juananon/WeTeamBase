@@ -1,2 +1,0 @@
-# WeTeamBase
-Architecture for Hackathon

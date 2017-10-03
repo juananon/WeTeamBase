@@ -1,0 +1,24 @@
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\WeTeam.Patterns.dll.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\WeTeam.Patterns.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\WeTeam.Patterns.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\EntityFramework.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\EntityFramework.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\es\EntityFramework.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\obj\Debug\WeTeam.Patterns.csprojResolveAssemblyReference.cache
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\obj\Debug\WeTeam.Patterns.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Patterns\obj\Debug\WeTeam.Patterns.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\WeTeam.Patterns.dll.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\WeTeam.Patterns.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\WeTeam.Patterns.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\EntityFramework.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\EntityFramework.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\es\EntityFramework.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\obj\Debug\WeTeam.Patterns.csprojResolveAssemblyReference.cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\obj\Debug\WeTeam.Patterns.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Patterns\obj\Debug\WeTeam.Patterns.pdb

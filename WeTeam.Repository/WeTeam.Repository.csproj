@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4257BD4B-4436-4990-BA96-9794BEAC3196}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WeTeam.Repository</RootNamespace>
+    <AssemblyName>WeTeam.Repository</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FcmSharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FcmSharp.1.0.0\lib\net45\FcmSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseRepository.cs" />
+    <Compile Include="ContextContainer.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="FittingRoom\FittingRoomRepository.cs" />
+    <Compile Include="FittingRoom\FittingRoomBookingRepository.cs" />
+    <Compile Include="FittingRoom\IFittingRoomRepository.cs" />
+    <Compile Include="FittingRoom\IFittingRoomBookingRepository.cs" />
+    <Compile Include="Migrations\201710032157533_Test.cs" />
+    <Compile Include="Migrations\201710032157533_Test.Designer.cs">
+      <DependentUpon>201710032157533_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710051134073_AddedFittingRoom.cs" />
+    <Compile Include="Migrations\201710051134073_AddedFittingRoom.Designer.cs">
+      <DependentUpon>201710051134073_AddedFittingRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710051218394_AddedFittingRoom2.cs" />
+    <Compile Include="Migrations\201710051218394_AddedFittingRoom2.Designer.cs">
+      <DependentUpon>201710051218394_AddedFittingRoom2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710051257447_AddedFittingRoom3.cs" />
+    <Compile Include="Migrations\201710051257447_AddedFittingRoom3.Designer.cs">
+      <DependentUpon>201710051257447_AddedFittingRoom3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test\DummyRepository.cs" />
+    <Compile Include="Test\IDummyRepository.cs" />
+    <Compile Include="UnitOfWork\UnitOfWork.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WeTeam.Entities\WeTeam.Entities.csproj">
+      <Project>{bbf30b5d-1067-4869-9004-a6bbf411be30}</Project>
+      <Name>WeTeam.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WeTeam.Patterns\WeTeam.Patterns.csproj">
+      <Project>{b2bfe7e9-4ba4-4b35-af5a-96732d84c8fe}</Project>
+      <Name>WeTeam.Patterns</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201710032157533_Test.resx">
+      <DependentUpon>201710032157533_Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710051134073_AddedFittingRoom.resx">
+      <DependentUpon>201710051134073_AddedFittingRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710051218394_AddedFittingRoom2.resx">
+      <DependentUpon>201710051218394_AddedFittingRoom2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710051257447_AddedFittingRoom3.resx">
+      <DependentUpon>201710051257447_AddedFittingRoom3.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

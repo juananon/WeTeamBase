@@ -1,0 +1,45 @@
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\obj\Debug\WeTeam.Repository.csprojResolveAssemblyReference.cache
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Repository.dll.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Repository.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Repository.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\EntityFramework.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Entities.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Patterns.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Entities.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Patterns.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\WeTeam.Patterns.dll.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\EntityFramework.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\es\EntityFramework.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\obj\Debug\WeTeam.Repository.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\obj\Debug\WeTeam.Repository.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\obj\Debug\WeTeam.Repository.Migrations.Test.resources
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.Repository\obj\Debug\WeTeam.Repository.csproj.GenerateResource.Cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Repository.dll.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Repository.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Repository.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\EntityFramework.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Entities.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Patterns.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Entities.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Patterns.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\EntityFramework.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.csprojResolveAssemblyReference.cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.Migrations.Test.resources
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.csproj.GenerateResource.Cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.Migrations.AddedFittingRoom.resources
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.Migrations.AddedFittingRoom2.resources
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\obj\Debug\WeTeam.Repository.Migrations.AddedFittingRoom3.resources
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\FcmSharp.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Infrastucture.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.Repository\bin\Debug\WeTeam.Infrastucture.pdb

@@ -1,0 +1,315 @@
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\ApplicationInsights.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\csc.exe
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\csc.exe.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\csc.rsp
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\csi.exe
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\csi.rsp
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\System.AppContext.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\vbc.exe
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\vbc.exe.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\vbc.rsp
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\VBCSCompiler.exe
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.API.dll.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.API.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.API.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Antlr3.Runtime.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\EntityFramework.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\EntityFramework.SqlServer.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.Web.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.ApplicationInsights.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Newtonsoft.Json.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Owin.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Net.Http.Formatting.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Helpers.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.Owin.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.WebHost.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Mvc.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Optimization.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Razor.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.WebPages.Deployment.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.WebPages.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.WebPages.Razor.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WebGrease.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Newtonsoft.Json.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Net.Http.Formatting.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Helpers.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.WebHost.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Mvc.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Optimization.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Razor.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.WebPages.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.WebPages.Deployment.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.WebPages.Razor.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Antlr3.Runtime.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\EntityFramework.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\EntityFramework.SqlServer.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.Owin.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.ApplicationInsights.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.AI.Web.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Net.Http.Formatting.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Helpers.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Http.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Http.WebHost.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Mvc.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Optimization.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Razor.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.WebPages.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\EntityFramework.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\EntityFramework.SqlServer.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.Security.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\es\System.Web.Http.Owin.resources.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\obj\Debug\WeTeam.API.csprojResolveAssemblyReference.cache
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\obj\Debug\WeTeam.API.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\obj\Debug\WeTeam.API.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Swashbuckle.Core.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WebActivatorEx.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.ServiceLocation.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.Unity.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Unity.WebApi.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Entities.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Patterns.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Repository.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Entities.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Patterns.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Patterns.dll.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Repository.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\WeTeam.Repository.dll.config
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.ServiceLocation.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.Unity.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Cors.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.Cors.dll
+c:\Users\juana\documents\visual studio 2017\Projects\WeTeam\WeTeam.API\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\ApplicationInsights.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\csc.exe
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\csc.exe.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\csc.rsp
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\csi.exe
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\csi.rsp
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\vbc.exe
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\vbc.exe.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\vbc.rsp
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.API.dll.config
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.API.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.API.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Antlr3.Runtime.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\EntityFramework.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.Web.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.WindowsServer.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.ApplicationInsights.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Google.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.ServiceLocation.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.Unity.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Newtonsoft.Json.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Owin.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Swashbuckle.Core.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Cors.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Helpers.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.Owin.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Mvc.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Optimization.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Razor.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.WebPages.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Unity.WebApi.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WebActivatorEx.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WebGrease.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Entities.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Patterns.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Repository.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Entities.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Patterns.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Repository.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.ServiceLocation.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.Unity.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Newtonsoft.Json.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Helpers.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Mvc.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Optimization.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Razor.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.WebPages.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\EntityFramework.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Google.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\System.Web.Http.Owin.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.ApplicationInsights.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.WindowsServer.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Microsoft.AI.Web.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Helpers.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Http.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Mvc.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Optimization.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Razor.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.WebPages.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\EntityFramework.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\EntityFramework.SqlServer.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.Security.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\System.Web.Http.Owin.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\obj\Debug\WeTeam.API.csprojResolveAssemblyReference.cache
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\obj\Debug\WeTeam.API.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\obj\Debug\WeTeam.API.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Infrastucture.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\WeTeam.Infrastucture.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Common.Logging.Core.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Common.Logging.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.Core.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.Dashboard.Authorization.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.SqlServer.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.Unity.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Common.Logging.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Common.Logging.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Common.Logging.Core.pdb
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Common.Logging.Core.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.Core.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.Dashboard.Authorization.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\Hangfire.SqlServer.xml
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\es\Hangfire.Core.resources.dll
+C:\PROJECTS\WeTeam\WeTeamBase\WeTeam.API\bin\zh\Hangfire.Core.resources.dll
